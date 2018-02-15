@@ -1,11 +1,10 @@
 package dao;
-
 import java.net.URI;
 import java.sql.Connection;
 import javax.naming.InitialContext;
 import javax.sql.DataSource;
 import org.apache.tomcat.dbcp.dbcp2.BasicDataSource;
-
+//tes
 public class BaseDao {
 	private DataSource connectionPool;
 
