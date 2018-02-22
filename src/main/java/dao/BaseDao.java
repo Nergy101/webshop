@@ -41,6 +41,6 @@ public class BaseDao {
 	}
 	
 	public void () {
-		
+		 
 	}
 }
