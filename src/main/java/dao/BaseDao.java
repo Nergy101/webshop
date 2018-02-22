@@ -6,7 +6,7 @@ import javax.sql.DataSource;
 import org.apache.tomcat.dbcp.dbcp2.BasicDataSource;
 //BLABLABLABLALAAAAA
 public class BaseDao {
-	private DataSource connectionPo//ol;
+	private DataSource connectionPool;
 
 	public BaseDao() {
 		try {
