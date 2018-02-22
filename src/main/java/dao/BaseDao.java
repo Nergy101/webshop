@@ -39,8 +39,5 @@ public class BaseDao {
 			throw new RuntimeException(ex);
 		}
 	}
-	
-	public void () {
-		 
-	}
+
 }
